@@ -2,10 +2,10 @@
 <a href="[https://linkedin.com](https://www.linkedin.com/in/lee-masereti-19214014a/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I'm a strategic and detail-driven professional with a strong sense of responsibility, teamwork, and continuous learning, valuing punctuality, reliability, and a willingness to both learn and share knowledge while growing steadily in the corporate world; I have an extensive IT background spanning network and infrastructure administration, security operations, and compliance, with hands-on experience across enterprise systems supporting endpoint protection, privileged access management, encryption, and network security, along with ISO 27001 compliance documentation, and I consistently hold myself to high professional standards, thriving as part of a cohesive team delivering outcomes that support both security resilience and business goals.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+
 
 
 
@@ -22,7 +22,6 @@ I am a recent graduate with a profound interest in technology and a dedication t
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -45,7 +44,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
